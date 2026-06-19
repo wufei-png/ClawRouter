@@ -1,3 +1,5 @@
+> Archived: this project has moved to [wufei-png/AgentRepoRouter](https://github.com/wufei-png/AgentRepoRouter).
+
 # ClawRouter
 
 [中文版](README_CN.md) | English
